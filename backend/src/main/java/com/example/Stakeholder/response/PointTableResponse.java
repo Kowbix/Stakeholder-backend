@@ -1,0 +1,16 @@
+package com.example.Stakeholder.response;
+
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+public class PointTableResponse {
+
+    private String firstName;
+    private String lastName;
+    private int points;
+}
