@@ -16,3 +16,18 @@
 
 
 
+<h1>Betting Matches Application</h1>
+
+<div>
+  <p>
+    The service is aimed at betting on matches for fun. Each participant has the possibility to predict the match result (based on the result, the winner or a draw is chosen). For each correct prediction, the user receives 10 points, while if the prediction is incorrect but the winning team is correctly chosen, the player receives 5 points.
+  </p>
+  
+  <p>
+    The backend of the application has been written in Java using Spring Boot technology, Hibernate, and the MySQL relational database. ReactJS library has been utilized for programming the frontend of the application. The ReactJS code is available <a href="https://github.com/Kowbix/Stakeholder-frontend">here</a>.
+  </p>
+
+  <p>
+    A demo of the application is available at <a href="https://youtu.be/yRAgglDEPdM" target="_blank">this link</a>.
+  </p>
+</div>
