@@ -10,7 +10,7 @@
   </p>
 
   <p>
-    Demo apliakcji dostepne jest pod <a href="https://youtu.be/yRAgglDEPdM?si=9fRm6tXnEa3bQ4cn">linkiem</a>
+    Demo apliakcji dostepne jest pod <a href="https://youtu.be/yRAgglDEPdM">linkiem</a>
   </p>
 </div>
 
