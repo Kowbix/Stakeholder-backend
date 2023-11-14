@@ -8,4 +8,6 @@
   Backend aplikacji został napisany w języku Java z wykorzystaniem technologi Spring Boot, Hibernate oraz relacyjne bazy danych MySQL. Do zaprogramowania frontendu aplikacji została wykorzystana bilioteka ReactJS. Kod ReactJs dostępny jest <a href="https://github.com/Kowbix/Stakeholder-frontend">tutaj</a>
 </p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yRAgglDEPdM?si=868VN3AvYCXJE_D_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/yRAgglDEPdM?si=9MF2MWvp_NcSJnaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
