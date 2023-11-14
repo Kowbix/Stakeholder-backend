@@ -5,5 +5,5 @@
 </p>
 
 <p>
-  Backend aplikacji został napisany w języku Java z wykorzystaniem technologi Spring Boot, Hibernate oraz MySQL. Do zaprogramowania frontendu aplikacji została wykorzystana bilioteka ReactJS.
+  Backend aplikacji został napisany w języku Java z wykorzystaniem technologi Spring Boot, Hibernate oraz relacyjne bazy danych MySQL. Do zaprogramowania frontendu aplikacji została wykorzystana bilioteka ReactJS.
 </p>
